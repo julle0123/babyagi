@@ -1,6 +1,6 @@
 # BabyAGI Mini (VS Code Script Edition, Korean Prompts)
 
-로컬 벡터 메모리(ChromaDB) + OpenAI(Chat/Embedding)로 구성한 BabyAGI 미니 구현
+로컬 벡터 메모리(ChromaDB) + OpenAI(Chat/Embedding)로 구성한 BabyAGI 미니 구현</br>
 프롬프트 및 실행 출력은 한국어 중심으로 구성
 
 ## 1) 설치
