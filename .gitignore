@@ -1,0 +1,4 @@
+.venv
+.babyagi_memory
+__pycache__/
+.env
