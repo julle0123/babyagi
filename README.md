@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 ## 2) 환경변수
-`.env.example`를 복사하여 `.env`를 만들고 OpenAI 키를 넣어주세요.
+`.env`를 만들고 OpenAI 키를 넣어주세요.
 ```env
 OPENAI_API_KEY=sk-...
 ```
@@ -31,5 +31,3 @@ ChromaDB 저장 경로 기본값은 `.babyagi_memory` 입니다. 초기화하려
 ```bash
 rm -rf .babyagi_memory
 ```
-
-> 주의: 본 코드는 교육/실험용입니다. 무한 루프/환각/비용 폭주를 방지하기 위해 `--steps`, `--temp`를 보수적으로 설정하세요.
